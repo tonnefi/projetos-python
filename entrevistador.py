@@ -1,4 +1,4 @@
-#nm é uma infomação que você vai responder e ficara salva no cumputaodor!
+#nm é uma infomação que você vai responder e ficara salva no cumputador!
 nm = str(input('qual é seu nome?'))
 
 #idd é outra informação que sera salva.
