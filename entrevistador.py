@@ -1,3 +1,4 @@
+//                                                                               Kenozos
 #nm é uma infomação que você vai responder e ficara salva no cumputador!
 nm = str(input('qual é seu nome?'))
 
@@ -27,3 +28,4 @@ print(f'mano foi um prazer te conhecer {nm} espero muito nos encontrarmos novame
 
 #assinatura:
 print('\33[30;47;1;4mde: ~Gabriel, Kenozos e Tonnefi.\33[m')
+//                                                                               Kenozos
